@@ -1,0 +1,13 @@
+{
+  "name": "lean-code",
+  "displayName": "Lean Code & RAG Core Guidelines",
+  "version": "1.0.0",
+  "description": "Enforces YAGNI, minimal complexity, strict interface isolation, and metrics-driven development for the project.",
+  "keywords": [
+    "lean-code",
+    "yagni",
+    "tdd",
+    "clean-code",
+    "metrics-driven"
+  ]
+}
